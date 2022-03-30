@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Fira Sans', sans-serif;;
+
+    background-color: #d2d4d6;
+};
+
+.container{
+    margin: 0px 40px;
+}

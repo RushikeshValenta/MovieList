@@ -1,0 +1,21 @@
+/* .movie-list {
+    margin: 20px 0px
+}
+
+.h2 {
+    color: yellow,
+     margin-bottom 10px, 
+     fontWeight 400
+}
+
+.movie-container {
+    display : flex,
+    align-content :center
+    grid-template-columns repeate(autoFill, minmax(220px, 1fr)),
+    
+} */
+.movie-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
