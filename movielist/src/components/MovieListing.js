@@ -31,7 +31,6 @@ function MovieListing() {
       <h3>{shows.Error}</h3>
     </div> 
 )
-console.log(renderShows.Response)
 
   return (
     <div className="movie-wrapper">
